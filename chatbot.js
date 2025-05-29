@@ -15,7 +15,6 @@ client.initialize();
 
 const delay = ms => new Promise(res => setTimeout(res, ms)); //função para criar delay entre uma ação e outra
 
-// Funil
 
 client.on('message', async msg => {
     
