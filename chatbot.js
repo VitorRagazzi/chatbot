@@ -43,7 +43,7 @@ client.on('message', async msg => {
         await delay(3000); //delay de 3 segundos
         await chat.sendStateTyping(); //simulando digitação
         await delay(3000);
-        await client.sendMessage(msg.from, 'exemplo');
+        await client.sendMessage(msg.from, 'exemploo');
 
         await delay(3000); //delay de 3 segundos
         await chat.sendStateTyping(); //simulando digitação
