@@ -95,8 +95,6 @@ client.on('message', async msg => {
     }
 
 
-//🤖 - Pronto! Basta aguardar, que o técnico responsável irá atendê-lo em breve. Obrigado pela paciência! 😊
-
 
 
 
